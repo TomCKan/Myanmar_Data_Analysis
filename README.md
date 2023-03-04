@@ -1,5 +1,7 @@
 # Myanmar_Data_Analysis
-Exploratory data analysis of deaths caused by ongoing conflicts in Myanmar.
+
+Exploratory data analysis of deaths caused by ongoing conflicts in Myanmar using data from The Uppsala Conflict Data Program (UCDP).
+
 
 ## Myanmar Data Analysis Initial Questions
 
@@ -10,3 +12,11 @@ Questions and hypothesis I am looking to get more insight to through exploratory
 - Is data from ACLED and UCDP datasets significantly different? And do these datasets give similar answers to each other in relation to the previous questions?
 
 These questions will give us a more in-depth knowledge about the conflict, and the data relating to it.
+
+
+## Myanmar Death Figures Data Analysis
+
+After cleaning the data from UCDP there were several key findings that relate to recent conflicts. 
+When looking at the deaths per day and deaths per month caused by conflict, there have been conflicts occurring on and off since records began. There has not been any long periods of peace which show how unstable this 'country' really is. Below we can see all the data UCDP has on deaths caused by conflict in Myanmar.
+
+![]()
